@@ -18,6 +18,7 @@ linters:
     - depguard
     - dogsled
     - dupl
+    - dupword
     - errcheck
     - funlen
     - goconst
